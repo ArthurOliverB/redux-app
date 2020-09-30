@@ -1,0 +1,29 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Jurassic Park",
+            "image": "https://resizing.flixster.com/PVHUSUgY5of6Z5mfzZLQFGrZCwE=/206x305/v2/https://flxt.tmsimg.com/NowShowing/43768/43768_aa.jpg"
+        },
+        {
+            "id": 2,
+            "title": "The Terminator",
+            "image": "https://resizing.flixster.com/PhjJgFNUOSNVB5HQ-P89Myf2S4E=/206x305/v2/https://flxt.tmsimg.com/assets/p7764_p_v8_au.jpg"
+        },
+        {
+            "id": 3,
+            "title": "The Matrix",
+            "image": "https://resizing.flixster.com/6-0_CcuvOenIjkuZsTudC6C9ipU=/206x305/v2/https://flxt.tmsimg.com/assets/p22804_p_v10_ab.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Save Yourselves",
+            "image": "https://resizing.flixster.com/FESxfI-bNtUg5Nm6k0oQL-Po-Kk=/206x305/v2/https://resizing.flixster.com/FX1XkEAR6DgcpEZGGDsFxvV_Lz4=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzI1MmQzMjg4LTRkMjctNGEyNy1hZGIxLTU3MGJhYjQ0YzhiZC5qcGc="
+        },
+        {
+            "id": 5,
+            "title": "Akira",
+            "image": "https://resizing.flixster.com/Uol5F529l_Vo35Q1aG_ETq7l2N4=/206x305/v2/https://flxt.tmsimg.com/assets/p16852_p_v8_aa.jpg"
+        }
+    ]
+}
